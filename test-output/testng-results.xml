@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T12:31:06 IST" name="Suite" finished-at="2024-08-03T12:31:12 IST" duration-ms="6142">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T12:31:06 IST" name="Test" finished-at="2024-08-03T12:31:12 IST" duration-ms="6142">
+      <class name="api.tests.UserTest">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.tests.UserTest@12468a38]" started-at="2024-08-03T12:31:06 IST" name="setUpData" finished-at="2024-08-03T12:31:07 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.tests.UserTest@12468a38]" started-at="2024-08-03T12:31:07 IST" name="testPostUser" finished-at="2024-08-03T12:31:09 IST" duration-ms="2286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="tetsUpdateUser()[pri:2, instance:api.tests.UserTest@12468a38]" started-at="2024-08-03T12:31:09 IST" name="tetsUpdateUser" finished-at="2024-08-03T12:31:11 IST" duration-ms="1741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsUpdateUser -->
+        <test-method signature="tetsGetUser()[pri:3, instance:api.tests.UserTest@12468a38]" started-at="2024-08-03T12:31:11 IST" name="tetsGetUser" finished-at="2024-08-03T12:31:12 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsGetUser -->
+      </class> <!-- api.tests.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T13:08:47 IST" name="Suite" finished-at="2024-08-03T13:08:55 IST" duration-ms="7691">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T13:08:47 IST" name="Test" finished-at="2024-08-03T13:08:55 IST" duration-ms="7691">
+      <class name="api.tests.UserTest">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.tests.UserTest@7880cdf3]" started-at="2024-08-03T13:08:47 IST" name="setUpData" finished-at="2024-08-03T13:08:48 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.tests.UserTest@7880cdf3]" started-at="2024-08-03T13:08:48 IST" name="testPostUser" finished-at="2024-08-03T13:08:50 IST" duration-ms="2059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="tetsUpdateUser()[pri:2, instance:api.tests.UserTest@7880cdf3]" started-at="2024-08-03T13:08:50 IST" name="tetsUpdateUser" finished-at="2024-08-03T13:08:52 IST" duration-ms="1940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsUpdateUser -->
+        <test-method signature="tetsGetUser()[pri:3, instance:api.tests.UserTest@7880cdf3]" started-at="2024-08-03T13:08:52 IST" name="tetsGetUser" finished-at="2024-08-03T13:08:53 IST" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsGetUser -->
+        <test-method signature="tetsDeleteUser()[pri:4, instance:api.tests.UserTest@7880cdf3]" started-at="2024-08-03T13:08:53 IST" name="tetsDeleteUser" finished-at="2024-08-03T13:08:55 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetsDeleteUser -->
+      </class> <!-- api.tests.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
